@@ -1,0 +1,28 @@
+%%------Shockwave Flash Movie-------%%
+In order to work on this sample movie 
+you have to be sure that Flash.ocx file 
+is already registered on your machine.
+
+There are several way to do verify that.
+The easiest way constits on opening the 
+Registry Editor by typing 'regedit' at 
+the DOS prompt. You can search for
+ your control object by going to the 
+EDIT menu and Find.
+
+It will likely be in the following structure: 
+HKEY_CLASSES_ROOT/file_name
+
+Other ones are described in the TS solution:
+<http://www.mathworks.com/support/solutions/data/1-177FZ.html?1-177FZ>
+
+In attachment I let you a copy of 
+the file Flash.ocx, that you may copy on 
+your machine, if Flash.ocx wasn't present.
+
+These actions don't violate Macromedia's software license agreement.
+<http://www.macromedia.com/support/shockwave/info/licensing/>
+  
+The entire list of methods used is in:
+<http://www.macromedia.com/cfusion/knowledgebase/index.cfm?id=tn_12059>
+
